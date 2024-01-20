@@ -1,0 +1,85 @@
+@import "../../vars.css";
+
+.container {
+  color: var(--color-text);
+  margin-top: 120px;
+  background-color: var(--color-secondary);
+  display: flex;
+  width: 100vw;
+  flex-wrap: wrap;
+}
+
+.text {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  margin-left: 10vh;
+}
+
+.text h2 {
+  font-size: 40px;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+
+.text p {
+  font-size: 40px;
+  font-weight: 400;
+  letter-spacing: 2px;
+}
+
+.links {
+  list-style: none;
+  margin: 8px 0px 5px 260px;
+  display: grid;
+  grid-template-columns: 80px 80px 80px;
+}
+
+.link {
+  gap: 5px;
+  margin-left: 440px;
+  cursor: pointer;
+}
+/* 
+.link a {
+  color: var(--color-text);
+  text-decoration: none;
+  font-size: 22px;
+  font-weight: 400;
+  letter-spacing: 1.5px;
+} */
+
+@media screen and (max-width: 830px) {
+  .container {
+    flex-direction: column;
+    gap: 23px;
+  }
+
+  .text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 10px;
+  }
+
+  .links {
+    align-items: center;
+  }
+
+  .link {
+    margin-left: -80px;
+    cursor: pointer;
+  }
+}
+
+@media screen and (max-width: 1380px) {
+  .links {
+    align-items: center;
+  }
+
+  .link {
+    margin-left: -80px;
+    cursor: pointer;
+  }
+}

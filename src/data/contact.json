@@ -1,0 +1,32 @@
+[
+    {
+        "target": "",
+        "imgPath": "contact/emailIcon.png",
+        "imgAlt": "Icon",
+        "contact": "mailto:rishi54047@gmail.com"
+    },
+    {
+        "target": "_blank",
+        "imgPath": "contact/linkedinIcon.png",
+        "imgAlt": "Icon",
+        "contact": "https://www.linkedin.com/in/rishi3e/"
+    },
+    {
+        "target": "",
+        "imgPath": "contact/arrows.png",
+        "imgAlt": "Icon",
+        "contact": "/"
+    },
+    {
+        "target": "_blank",
+        "imgPath": "contact/githubIcon.png",
+        "imgAlt": "Icon",
+        "contact": "https://github.com/rishi3e"
+    },
+    {
+        "target": "",
+        "imgPath": "",
+        "imgAlt": "",
+        "contact": ""
+    }
+]

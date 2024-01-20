@@ -1,0 +1,62 @@
+[
+    {
+        "imgPath": "skills/angular.png",
+        "imgAlt": "Icon",
+        "title": "Angular 2+",
+        "selfRating": 4
+    },
+    {
+        "imgPath": "skills/react.png",
+        "imgAlt": "Icon",
+        "title": "React",
+        "selfRating": 4
+    },
+    {
+        "imgPath": "skills/javascript.png",
+        "imgAlt": "Icon",
+        "title": "Javascript",
+        "selfRating": 4
+    },
+    {
+        "imgPath": "skills/typescript.png",
+        "imgAlt": "Icon",
+        "title": "Typescript",
+        "selfRating": 4
+    },
+    {
+        "imgPath": "skills/rxjs.png",
+        "imgAlt": "Icon",
+        "title": "RxJs",
+        "selfRating": 4
+    },
+    {
+        "imgPath": "skills/html.png",
+        "imgAlt": "Icon",
+        "title": "Html5",
+        "selfRating": 4
+    },
+    {
+        "imgPath": "skills/css.png",
+        "imgAlt": "Icon",
+        "title": "Css3",
+        "selfRating": 3
+    },
+    {
+        "imgPath": "skills/tailwind.png",
+        "imgAlt": "Icon",
+        "title": "Tailwind",
+        "selfRating": 4
+    },
+    {
+        "imgPath": "skills/angular_material.png",
+        "imgAlt": "Icon",
+        "title": "A Material",
+        "selfRating": 4
+    },
+    {
+        "imgPath": "skills/material_ui.png",
+        "imgAlt": "Icon",
+        "title": "Material UI",
+        "selfRating": 4
+    }
+]

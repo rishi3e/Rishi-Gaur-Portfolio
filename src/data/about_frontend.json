@@ -1,0 +1,14 @@
+[
+  {
+    "imgPath": "about/frontend/angular_logo.png",
+    "imgAlt": "Icon",
+    "title": "Angular Developer",
+    "paragraph": "Experienced Angular Developer with 2.5 years of hands-on expertise in Angular Development, currently immersed in Angular v12 projects. I bring a proven track record of delivering robust and scalable web applications. Beyond my IT experience, I showcased my dedication to staying at the forefront of industry trends by attending the ng-India 5th Edition in February 2023, India's premier annual conference for Angular and JavaScript developers. In addition to my professional accomplishments, I've created the Finding-Falcon and other projects using Angular v12, all showcased in the Projects section. Eager to contribute my skills to cutting-edge projects and collaborate with fellow enthusiasts. Let's build remarkable web experiences together! #AngularDeveloper #WebDevelopment #InnovationDriven"
+  },
+  {
+    "imgPath": "about/frontend/react_logo.png",
+    "imgAlt": "Icon",
+    "title": "React Developer",
+    "paragraph": "Passionate React Developer with a solid foundation in React, backed by a course completion certificate, and a penchant for creating impactful web applications. I have honed my skills through practical experience, including the development of a dynamic food ordering project using live APIs. Additionally, I've showcased my commitment to excellence by building my this portfolio project using React, which you can explore in the Projects section. With a keen eye for detail and a drive for innovation, I am enthusiastic about contributing my expertise to collaborative and forward-thinking projects. Let's build exceptional user experiences together! #ReactDeveloper"
+  }
+]

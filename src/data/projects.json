@@ -1,0 +1,60 @@
+[
+  {
+    "imgPath": "projects/finding-falcone.jpg",
+    "imgAlt": "Icon",
+    "title": "Finding Falcone",
+    "description": "Using given conditions, your coding problem is to help King Shan in finding Al Falcone. However he has limited resources at his disposal & can send his army to some of planets.",
+    "skills": [
+      "Angular 12",
+      "Webpack",
+      "Angular Material",
+      "Geektrust Finding-Falcone live APIs"
+    ],
+    "demo": "",
+    "source": "https://github.com/rishi3e/finding-falcone",
+    "target": "_blank"
+  },
+  {
+    "imgPath": "projects/admin-ui.png",
+    "imgAlt": "Icon",
+    "title": "Admin UI",
+    "description": "Suppose you are working at a startup that is building an interface for admins to see and delete users. The users will be provided via an API. Your job is to build out a working UI.",
+    "skills": [
+      "Angular 12",
+      "Webpack",
+      "Angular Material",
+      "Geektrust Admin-UI Live APIs"
+    ],
+    "demo": "",
+    "source": "https://github.com/rishi3e/admin-ui",
+    "target": "_blank"
+  },
+  {
+    "imgPath": "projects/food-ordering.png",
+    "imgAlt": "Icon",
+    "title": "Food Ordering App",
+    "description": "Develop a feature-rich Food Ordering App using live APIs within the Parcel-React framework. Implement a comprehensive range of essential React concepts, including Routing, Hooks, Function and Class components, Shimmer UI, and many more, to ensure a robust and engaging user experience.",
+    "skills": [
+      "React",
+      "Parcel",
+      "Live APIs",
+      "Tailwind CSS"
+    ],
+    "demo": "",
+    "source": "https://github.com/rishi3e/Namaste-React-Food-Ordering-App-Project",
+    "target": "_blank"
+  },
+  {
+    "imgPath": "projects/portfolio.jpg",
+    "imgAlt": "Icon",
+    "title": "This Portfolio",
+    "description": "I have crafted this dynamic and interactive portfolio using Vite-React, seamlessly showcasing all my practice projects, skills, and experience. Explore my journey, delve into my skill set, and gain insights into my current tech stack as I navigate through the realms of web development and innovation.",
+    "skills": [
+      "React",
+      "Vite",
+      "Material UI"
+    ],
+    "demo": "",
+    "source": ""
+  }
+]

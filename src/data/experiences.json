@@ -1,0 +1,28 @@
+[
+    {
+        "imgPath": "experiences/xoriant.jpg",
+        "imgAlt": "Icon",
+        "role": "Software Engineer",
+        "organisation": "Xoriant",
+        "startDate": "Sept, 2022",
+        "endDate": "Present",
+        "experiences": [
+            "Working on Angular 12",
+            "Understanding business requirements through ticket descriptions for assigned modules",
+            "Analyzing and troubleshooting software issues, identifying root causes, and implementing effective solutions using Angular Framework"
+        ]
+    },
+    {
+        "imgPath": "experiences/xoriant.jpg",
+        "imgAlt": "Icon",
+        "role": "Associate Software Enginner",
+        "organisation": "Xoriant",
+        "startDate": "Aug, 2021",
+        "endDate": "Aug, 2022",
+        "experiences": [
+            "Worked on Angular 12",
+            "Collaborated with HTML coders and graphic designers",
+            "Built reusable components and promoted code reusability"
+        ]
+    }
+]
